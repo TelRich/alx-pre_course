@@ -1,2 +1,1 @@
-touch up_to_date
-git add up_to_date
+git pull https://github.com/TelRich/alx-pre_course.git
